@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'NanumBarunpen';
+    src: url('NanumBarunpenB.eot');
+    src: url('NanumBarunpenB.eot?#iefix') format('embedded-opentype'),
+        url('NanumBarunpenB.woff') format('woff'),
+        url('NanumBarunpenB.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NanumBarunpen';
+    src: url('NanumBarunpenR.eot');
+    src: url('NanumBarunpenR.eot?#iefix') format('embedded-opentype'),
+        url('NanumBarunpenR.woff') format('woff'),
+        url('NanumBarunpenR.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
